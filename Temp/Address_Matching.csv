@@ -1,0 +1,581 @@
+index,scraped_provider_number,scraped_npi,scraped_name,scraped_address
+1,36C0001300,1316326242,St Mina Interventional Pain Center,1621 East Market St Suite B
+2,29C0001103,1568752202,Woodward Ave Llc Dba Innovative Procedural And Surgical Center,9920 West Cheyenne Ave Suite 120
+3,11C0001371,1639499627,Georgia Urology Dba Ga Urology Ambulatory Surgery Center Marietta,790 Church St Suite 430
+4,14C0001167,1992259337,Advocate Condell Ambulatory Surgery Center Llc,825 South Milwaukee Ave
+5,31C0001326,1427427988,Naspac1-Pro Llc,404 Creek Crossing Blvd
+6,15C0001201,1801349386,Interventional Pain Management Llc,1920 45Th St
+7,15C0001200,1447612114,Lpc Surgery Center,770 Park East Blvd Suite A
+8,17C0001090,1295119584,Epic Surgery Center,"3555 North Webb Rd, Suite B"
+9,03C0001373,1962869826,Endotech Llc,8841 East Bell Rd Suite 101
+10,05C0002134,1063712743,Medical Arts Surgery Suite A Medical Corporation,3803 S Bascom Ave
+11,10C0001592,1346662186,National Surgical Centers Of America Llc,"150 South West Chamber Ct, Suite 105"
+12,05C0002093,1265851034,Hancock Park Surgery Center,321 North Larchmont Boulevard Suite 1011
+13,31C0001315,1306243415,The Surgery Center At Old Bridge,2 Hospital Plz Ste 350
+14,11C0001467,1124571104,Urology Surgery Center Johns Creek,10730 Medlock Bridge Rd
+15,33C0001165,1730540600,Richmond Pain Management Asc,1360 Hylan Blvd
+16,18C0001048,1073055943,Daybreak Operations Llc,133 Barnwood Dr
+17,07C0001062,1962879932,Guilford Surgery Center Llc,246 Goose Lane Suite 203
+18,39C0001325,1952785438,325 Asc Llc,325 West Germantown Pike Suite
+19,12C0001020,1093083362,Asia Pacific Surgery Llc,1401 S Beretania St Suite 890
+20,45C0001617,1417304171,Collin County Ambulatory Surgery Center L.P. Dba Medfinity Health Srugery Center Plano,Park Ventura Office Center 5085 West Park Blvd Sui
+21,39C0001310,1376526780,Jefferson Pain And Rehab Center,4735 Clairton Blvd
+22,03C0001362,1306921143,Barnet Dulaney Perkins Eye Center,1610 South White Mountain Rd
+23,05C0002158,1497120463,The Cardiovascular Surgical Center Inc,2415 Sonoma St Suite B
+24,28C0001058,1356729636,R Choice Surgical Center Llc,2900 Elk Lane
+25,03C0001374,1881074102,Heart And Vascular Surgical Center Llc,4680 E Baseline Rd Suite 102
+26,31C0001323,1699144915,Gregori Surgery Center,101 Old Short Hills Rd Ste 300
+27,03C0001375,1184078503,Pima Heart Asc Llc,1238 W. Orange Grove Rd
+28,21C0001597,1922531268,American Access Care Of Baltimore Asc Llc,8140 Corporate Dr Suite 125
+29,05C0001698,1952516395,Medworks Medical Billing,150 N Robertson Blvd Ste. 110
+30,31C0001329,1437512514,New Century Spine And Outpatient Surgical Institute,37 West Century Road
+31,11C0001384,1730463753,Peachtree Orthopaedic Surgery Center At Perimeter,5505 Peachtree Dunwoody Rd Suite 200
+32,45C0001555,1114264488,Executive Surgery Center,13603 Michel Rd Suite 100
+33,11C0001469,1134670557,Cataract And Laser Surgery Center Of South Georgia,4120B North Valdosta Rd
+34,34C0001184,1396089108,Triangle Orthopaedics Surgery Center,7921 Acc Blvd
+35,04C0001089,1629404918,Central Arkansas Surgery Center Llc,100 North Fillmore St
+36,21C0001596,1871941468,Ambulatory Surgery Center For Pelvic Neuro Science Llc,1447 York Rd Suite 406
+37,05C0002127,1801230719,Camarillo Surgical Center Associates Inc,2460 Ponderosa Dr North Suite A-116
+38,24C0001092,1790145480,Twin Cities Surgery Center,7211 Ohms Lane
+39,05C0001644,1518015924,Pacific Ambulatory Surgical Center,16260 Ventura Blvd #800
+40,11C0001463,1508210378,Apex Medical Surgery Center Llc,1075 Lafayette Parkway Suite 110
+41,40C0001035,1851632780,Cirugia Amb Metropavia Clinic Arecibo,Carr 129 Interior Zona
+42,11C0001386,1982978466,Northwest Ent Surgery Center Llc,960 Woodstock Parkway Suite 101
+43,19C0001135,1841646130,Cardiovascular Outpatient Surgery Center Of Southwest Louisiana,401 Doctor Michael Debakey Dr Suite 310
+44,36C0001305,1437691177,Fresenius Vascular Care Cincinnati Asc Dba Azura Surgery Center,4600 Smith Road Suite A4
+45,23C0001131,1003273129,Great Lakes Surgery Ctr Llc,2848 Niles Rd Ste B
+46,11C0001460,1760834295,Resurgens East Surgery Center Llc,3241 Iris Dr Suite 100
+47,11C0001466,1134589054,Apex Surgery Center,3243 Glynn Ave
+48,41C0001016,1548549900,Spinal Therapeutics Llc,19 Friendship St Ste G50
+49,05C0001692,1881690949,Advanced Ambulatory Surgery Center Lp,"1901 W. Lugonia Ave, Ste 100"
+50,03C0001378,1962938332,Banner Union Hills Surgery Center,"18301 N 79Th Ave, # E150"
+51,37C0001073,1386196764,Advanced Surgical And Research Solutions,3200 Quail Springs Parkway Suite 100
+52,39C0001339,1558808287,Valley Kidney Specialists Dba Lifeline Valley Access Center,2014 City Line Rd Suite 101
+53,03C0001379,1023567260,Ski Ambulatory Surgical Centers Llc,7362 W Thunderbird Rd Suite 103
+54,05C0002131,1740634369,Uc Regents Dba Ucla Health Pain Management Santa Clarita,25775 Mcbean Parkway Suite 108
+55,24C0001090,1003272980,Pain Centers Of Minnesota - Chaska Llc,3000 Hundertmark Rd Suite 200
+56,05C0001921,1023159860,Thosand Oaks Surgery Center,1120 Newbury Rd Suite 100
+57,29C0001119,1487187076,Green Valley Surgery Center,7365 South Pecos Rd
+58,05C0002004,1578627022,Pain Care Providers A Professional Medical Corporation,113 Waterworks Way Suite 345
+59,24C0000178,1043482128,Cvw Body Design Center,2001 W Main St Suite 155
+60,05C0002133,1740655232,Advanced Specialty Surgical Center Llc,625 N A St Suite 300
+61,05C0002168,1619411519,Oculofacial Plastic Surgery Center,2770 Eureka Way Suite 300
+62,11C0001458,1326494147,Center For Spine And Pain Medicine Pc Dba Cspm Gainesville Asc,1016 Thompson Bridge Rd
+63,45C0001611,1407206972,Heart Of Texas Surgery Center Pllc,7003 Woodway Dr Suite 307
+64,29C0001118,1891185096,Ezeanolue Md Precision Surgery Center Of Las Vegas Pllc,1701 Bearden Dr Suite 202
+65,50C0001305,1003169434,Urology Northwest Ps,"6005 244Th St Sw, Ste 113"
+66,37C0001072,1639566318,Triad Surgery Center - Mcalester Llc,1001 E Wyandohe
+67,49C0001061,1225452303,Sentara Martha Jeffereson Outpatient Surgery Center,595 Jefferson Parkway Dr Suite 290
+68,06C0001156,1417294745,Coal Creek Asc,130 Old Laramie Trail
+69,45C0001612,1417409285,Beaumont Asc Lp,755 North 11Th St P3970B
+70,10C0001601,1326435926,Select Physicians Surgery Center,3440 West Martin Luther King Jr Blvd Suite 103
+71,51C0001016,1831545904,Mon Health Center For Outpatient Surgery,2000 Mon Health Medical Park Dr
+72,21C0001594,1396142733,Dialysis Access Services Llc,2405 York Rd Suite 100
+73,02C0001017,1194198747,Alaska Medical Center,188 W Northern Lights Blvd Ste
+74,11C0001465,1295287522,Midtown Surgery Center,1224 Stark Ave
+75,05C0001694,1891865077,Regency Surgery Center Llc,16055 Ventura Blvd #120
+76,21C0001601,1952834277,American Access Care Of Towson Asc Llc,25 Crossroads Dr Suite 110
+77,26C0001159,1245781459,Fresenius Vascular Care St Louis Asc,201 Dunn Road
+78,52C0001114,1457714271,Waukesha Surgery Center Llc Dba Lake Country Surgery Center,2400 Golf Rd
+79,21C0001586,1124492996,Mohs And Skin Surgery Center Llc,1447 York Rd Suite 301
+80,45C0001619,1013386549,Olympia Surgical Associates Dba Olympia Surgery Center,13525 Centerbrook Suite 100
+81,21C0001587,1891148219,Summit Ambulatory Surgical Center Llc,"7580 Buckingham Blvd, Suite 100"
+82,25C0001093,1710425913,Flowood Vascular Access Asc Llc,1010 Lakeland Square Ext Suite
+83,10C0001608,1053764779,Surgcenter Of St. Lucie,10521 Southwest Village Center Dr #104
+84,45C0001627,1518402205,Kingwood Asc Lp Dba North Houston Cardiovascular Surgery Center,"19502 Mckay Blvd, Suite 203"
+85,45C0001623,1356798854,Mid Cities Asc Lp Dba Medfinity Health Surgery Center- Heb,1305 Airport Freeway Suite 123
+86,04C0001090,1548712227,Arkansas Outpatient Surgery Center,4331 East 43Rd St
+87,45C0001554,1689932162,Austin Midtown Ambulatory Surgery Center Llc,901 W 38Th St Suite 101
+88,45C0001614,1437523834,Crenshaw Ambulatory Surgical Center Llc,5150 Crenshaw Rd Suite H 100
+89,31C0001321,1881997930,Park Ave Surgery Center,3848 Park Ave
+90,33C0001151,1164848453,Pbgs Llc,14-16 Dekalb Dr
+91,46C0001062,1760939367,Utah Valley Surgery Center Llc Dba Grove Creek Surgery Center,2168 West Grove Parkway Suite 101
+92,11C0001363,1710290606,Georgia Neurosurgical Institute Outpatient Surgery Center,840 Pine St Suite 810
+93,50C0001312,1043690126,Bellingham Urology Group Pllc,340 Birchwood Ave
+94,21C0001523,1356831440,Orthopedic Wellness Surgery Center,11637 Terrace Dr Suite 101
+95,23C0001136,1861947558,Flint Region Asc Llc,2300 Austins Parkway
+96,05C0002167,1518311141,Uc Regents Dba Ucla Health Pain Management Thousand Oaks,100 Moody Ct Suite 100
+97,39C0001323,1851845986,West Shore Pain And Spine Institute Llc,5124 E. Trindle Rd
+98,25C0001077,1578898276,Southern Urology Surgery Center Llc,139 Fairfield Dr
+99,03C0001380,1275077414,Ski Ambulatory Surgical Centers Llc,1100 E University Dr Suite 102
+100,36C0001302,1760849889,Surgery Center At Corporate Way Llc,"7076 Corporate Way, Suite 202"
+101,11C0001454,1285083477,Georgia Interventional Pain B Llc,"1255 Friendship Rd, Suite 140"
+102,50C0001319,1982149761,The Polyclinc - Mohs Dermatology,"1229 Madison St, Suite 1090"
+103,05C0002139,1902284045,Murrieta Specialty Surgery Center Pc - A,40663 Murrieta Hot Springs Rd Suite C4
+104,33C0001171,1396265377,Greenwich Village Ambulatory Surgery Center Llc,200 West 13Th St
+105,33C0001155,1962893354,Westmoreland Asc Llc Dba Apex Surgical Center,5325 State Route 233
+106,33C0001130,1275890881,New York Surgery Center Queens Llc,4604 31St Ave
+107,11C0001468,1841672615,Alliance Surgery Center At Augusta Llc,1367 Interstate Pkwy
+108,05C0002082,1750712667,Sea Surgery Center Llc,770 Pacific Coast Hwy
+109,36C0001301,1033668587,Lancaster Specialty Surgery Center,3056 Columbus Lancaster Rd Nw
+110,36C0001299,1518379205,Gemini Surgery Center Llc,1210 Gemini Pl Ste 301
+111,45C0001622,1972045243,Methodist Allen Surgery Center,1125 Raintree Cir Suite 200
+112,29C0001110,1578980421,Sunset Ridge Surgery Center Llc,8352 West Warm Springs Rd Suite 110
+113,29C0001076,1235363987,Coronado Surgery Center,2779 West Horizon Ridge Parkway Suite 140
+114,11C0001470,1043660442,Georgia Interventional Pain D Llc,"484 Irvin Ct, Suite 130"
+115,11C0001456,1427435007,Avvsc Lawrenceville Llc,600 Professional Dr Suite 160B
+116,05C0002109,1205177235,Modesto Specialty Surgery Center Pc,10884 Santa Monica Blvd #300
+117,05C0002123,1336510486,Sacramento Heart Ambulatory Surgery Center Inc,500 University Ave
+118,05C0002155,1114473972,Burbank Spine And Pain Surgery Center,2211 West Magnolia Blvd Suite 270
+119,11C0001374,1073713277,Atlanta Skin Cancer Specialists Pc,"3525 Piedmont Rd, Bldg 6, Ste. 220"
+120,35C0001026,1578918124,Center For Pain Medicine,2401 41 St S
+121,05C0002027,1508144007,Pacific Specialist Surgical Center Llc,"77 Van Ness Ave, Ste. 301"
+122,33C0001164,1518323435,Southtowns Surgery Center Llc,5959 Big Tree Rd
+123,31C0001330,1871026120,Access Care Physicians Of Nj Llc,1225 Mcbride Avenue Suite 117
+124,45C0001631,1033564414,Texas Center For Interventional Surgery Llc,"4450 Sojourn Dr, Suite 200"
+125,05C0002151,1144673526,Murrieta Valley Surgery Center Inc A Professional Corporation Dba Murrieta Valley Surgery Center,36320 Inland Valley Dr Suite 101
+126,05C0002105,1891133302,Hanford Specialty Surgery Center Pc,400 N Irwin St
+127,11C0001387,1134497910,Urological Surgical Center Llc,102 Hickory St
+128,38C0001108,1477949766,Deschutes Surgery Center Llc,2115 Northeast Wyatt Ct #105
+129,11C0001416,1346685666,Albany Urology Surgery Center Llc Dba Albany Urology Surgery Center,2400 Osler Ct
+130,11C0001409,1982044707,Southeast Spine Care And Pain Management Inc,7450 Skidaway Rd
+131,11C0001462,1881147965,Ulna Surgery Center,"10730 Medlock Bridge Road, Suite 200"
+132,03C0001371,1659731669,Cardiac Surgery Center Of Phoenix Lp,1910 East Thomas Rd Suite 102
+133,39C0001326,1629517271,Orthopaedic Surgery Center At Bryn Mawr Hospital,135 South Bryn Mawr Ave Suite 400
+134,11C0001475,1497286223,Alpharetta Mohs Surgical Center,3330 Preston Ridge Rd Suite 260
+135,45C0001609,1477905271,Advanced Cardiovascular And Surgery Center At Methodist West Houston,18400 Katy Freeway Suite 330
+136,45C0001618,1013468586,Muve-Lakeway Ambulatory Surgical Center,"5329 Serene Hills, Suite 100"
+137,45C0001532,1447743174,Starlink Surgery Center Llc,7830 West Grand Parkway South Suite 150
+138,17C0001091,1124489083,Prime Healthcare Services - Leavenworth Surgery Center Llc,3550 S 4Th St Suite G1
+139,39C0001338,1538607544,Delaware Valley Nephrology And Hypertension Assoc Pc Dba Vascular Access Center Of Delaware Valley,"8120 York Rd, Suite 250"
+140,06C0001159,1588756621,Highline South Ambulatory Surgery Center,11 West Dry Creek Cir Suite 120
+141,45C0001613,1194271338,Conroe Asc Lp Dba College Park Heart And Vascular Surgery Center,17183 I-45 South Suite 360
+142,21C0001590,1356890172,Dialysis Access Services Llc,1666 Sulphur Springs Rd
+143,17C0001083,1740794973,Epic Surgery Center,11261 Nall Ave Suite 200
+144,21C0001588,1164877684,Smart Pain Surgery Center At White Marsh,"8100 Sandpiper Circle, Suite 210"
+145,23C0001130,1013385046,Interventional Pain Center Pllc,27423 Van Dyke Ave
+146,31C0001298,1316219470,Coastal Surgery Center Llc,"3700 Route 33, Ll01"
+147,25C0001080,1699082875,Pain Consultants Asc Llc,4105 Hospital St Ste 112A
+148,25C0001092,1801310768,Hattiesburg Clinic Pa Nephrology Vascular Access,5909 Hwy 49 South 14
+149,33C0001145,1083050603,Cortland Asc Llc,"64 Pomeroy St, Suite B"
+150,06C0001158,1437501145,North Care Asc Llc,6071 E Woodmen Rd
+151,33C0001172,1134665193,Nhpe Llc Dba New Hyde Park Endoscopy,1991 Marcus Ave
+152,25C0001046,1447271713,Columbus Orthopaedic Outpatient Center,640 Leigh Dr
+153,05C0001514,1013980317,Airport Endoscopy Center,8110 Airport Blvd First Floor
+154,45C0001648,1134663677,Castle Hills Surgicare Llc,4221 Medical Parkway Suite 100
+155,38C0001052,1174520191,Aesthetic Surgery Center Of Eugene Inc,2550 Willakenzie Ste #1
+156,49C0001034,1346270329,Mary Immaculate Ambulatory Surgery Center Llc,12720 Mcmanus Blvd Suite 103
+157,19C0001088,1003067844,Endo Center Llc,58515 Pearl Acres Rd
+158,14C0001172,1063947422,Silver Cross Ambulatory Surgery Center Llc Dba Silver Cross Surgery Center,1003 Pawlak Parkway
+159,52C0001049,1952347981,Marshfield Clinic - Eau Claire,2116 Craig Rd
+160,33C0001178,1437517745,Premier Ambulatory Surgery Center,5844 Southwestern Blvd - Suite 700
+161,33C0001158,1215211552,Putnam Gi Llc,"667 Stoneleigh Ave, Bldg A, Ste. 204"
+162,10C0001389,1447226394,Bgc Holdings Inc,4800 Belfort Rd
+163,05C0001572,1982672283,Roseville Surgery Center,1420 Roseville Parkway Suite 100
+164,45C0001622,1972045243,Methodist Allen Surgery Center,1125 Raintree Cir Suite 200
+165,10C0001016,1043205040,St Lukes Surgical Center Inc,43309 Us Hwy 19 North
+166,21C0001604,1386161495,Medstar Surgery Center At Brandywine,13950 Brandywine Rd Lower Level
+167,45C0001288,1205327277,Austin Gi Surgicenter Llc Dba Austin Gi Surgicenter I,8015 Shoal Creek Blvd Suite 300
+168,41C0001005,1184713919,Ocean State Endoscopy Center,"148 West River St, Ste 3"
+169,21C0001600,1033635206,Medstar Surgery Center At Timonium,2118 Greenspring Dr Suite 300
+170,36C0001099,1003323353,Clinton County Outpatient Surgery Llc,1150 West Locust St Suite 200
+171,10C0001653,1134684814,Performance Health Surgery Center,9500 Gulf Research Lane
+172,10C0001559,1700190352,Safety Harbor Surgery Center Llc,3280 Mcmullen Booth Rd. Ste. 110
+173,23C0001025,1407847676,Eastside Associates Llc,"28963 Little Mack, Ste. 103"
+174,35C0001027,1215455217,Dakota Gastroenterology Ltd,5049 33Rd Ave South
+175,05C0001548,1295897585,Folsom Sierra Endoscopy Center Lp,1671 Creekside Dr Ste 100
+176,02C0001018,1073009304,Susitna Surgery Center Llc,2490 South Woodworth Loop Suite 100
+177,11C0001192,1588619811,Lawrenceville Surgery Center Llc,758 Old Norcross Rd Suite 125
+178,30C0001031,1386697803,Dartmouthhitchcock Clinic,One Medical Center Dr
+179,45C0001035,1861546525,Houston Psc Lp Dba Physicians Surgicenter Of Houston,7515 Main St Suite 800
+180,34C0001196,1366868572,Premier Surgery Center Llc,4515 Premier Dr Suite 102
+181,45C0001681,1164986683,Proffer Surgical Center,1611 Wallace Blvd Suite 100
+182,37C0001074,1306214705,Gsi Asc Llc,10210 E. 91St Street South
+183,06C0001171,1972030161,Advanced Vision Surgery Center,1390 Dry Creek Dr
+184,45C0001184,1447207857,Southwest Endoscopy And Surgery Center,11803 South Freeway
+185,45C0001458,1104974310,Northwest Surgery Center Llp,11111 Research Blvd Suite 350
+186,11C0001460,1760834295,Resurgens East Surgery Center Llc,3241 Iris Dr Suite 100
+187,34C0001200,1750892659,Novant Health Kernersville Outpatient Surgery,1730 Kernersville Medical Parkway
+188,33C0001170,1346792165,Hss Asc Of Manhattan Dba Hospital For Special Surgery,1233 2Nd Ave
+189,39C0001343,1932613643,Grand View Surgery Center At Haleysville,270 Main St Suite 100
+190,05C0002161,1366857377,Advanced Endoscopy Center-Gastroenterology,25495 Medical Center Dr Suite
+191,26C0001138,1104082692,Old Tesson Surgery Center Lp,12639 Old Tesson Rd Suite 130
+192,24C0001037,1669496345,Mngi Endoscopy Asc Inc,15700 37Th Ave North Suite 300
+193,45C0001422,1306804612,Lone Star Endoscopy-Keller,180 Bear Creek Parkway
+194,05C0002192,1275548158,Digestive Diagnostic Center Inc,333 Gellert Blvd Suite 111
+195,15C0001192,1275881179,Meridian South Surgery Center,"8830 South Meridian St, Ste. 250"
+196,11C0001279,1477651610,Surgical Center For Urology Llc,290 Country Club Dr Suite 240
+197,11C0001085,1598767154,Northwest Georgia Orthopaedic Surgery Center Llc,2550 Windy Hill Rd Southeast Suite 218
+198,47C0001002,1508342114,Actd Llc Dba Green Mountain Surgery Center,593 Hercules Dr
+199,10C0001554,1508182577,Eye Specialists Laser And Surgery Center Inc,12453 S. Cleveland Ave.
+200,05C0002171,1558885541,Beverly Hills Multispecialty Surgical Center Llc,50 N La Cienega Blvd Ste 201
+201,24C0001101,1154840064,Southhealth Asc Llc Dba Edina Specialty Surgery Center,4100 Minnesota Dr Suite 200
+202,07C0001066,1255820544,Wallingford Endoscopy Center Llc,863 North Main St Ext Suite 300
+203,39C0001168,1710091517,Hershey Outpatient Surgery Center Lp,15 Hope Dr
+204,25C0001069,1760467732,G I Diagnostic And Therapeutic Center Llc,"7668 Airways Blvd, Building # 2"
+205,11C0001234,1497752745,Orthopaedic South Surgical Center,6645 Lake Dr
+206,01C0001020,1750499950,Medplex Outpatient Surgery Center Ltd,4511 Southlake Parkway
+207,45C0001543,1104341254,Texas Health Surgery Center Alliance,10840 Texas Health Trail Suite 100
+208,11C0001477,1235677808,Athens Orthopedic Clinic Ambulatory Surgery Center Loganville Llc,1765 Old West Broad St Building 1 Suite 300
+209,45C0001671,1093295545,Surgery Center 121 Llc,9955 Gillespie Dr Suite 200
+210,31C0001336,1548755838,Surgical Studios Llc,199 Mullica Hill Rd
+211,05C0002025,1811447246,Virgil Endoscopy Center Llc,500 S. Virgil Ave
+212,06C0001172,1174010011,Dtc Surgery Center Llc,4380 South Syracuse St Suite 120
+213,05C0002174,1306369566,Doctors Surgery Center Of Westminster,8331 Westminster Blvd Suite B
+214,24C0001010,1265404115,Willmar Surgery Center,1320 South First St
+215,10C0001644,1396211264,Palm Beach Surgical Suites Llc,4215 Burns Rd Suite 150
+216,17C0001083,1740794973,Epic Surgery Center,11261 Nall Ave Suite 200
+217,29C0001057,1609069038,Digestive Disease Center Ii,2700 Crimson Canyon Dr. Ste. 120
+218,21C0001213,1437120953,Montgomery Surgery Center Limited Partnership Dba Montgomery Surgery Center,46 West Gude Dr
+219,10C0001490,1104907328,Andrews Institute Ambulatory Surgery Center,1040 Gulf Breeze Parkway Suite 100
+220,45C0001676,1639668080,Zazen Surgery Center Llc,25230 Kingsland Blvd
+221,21C0001594,1396142733,Dialysis Access Services Llc,2405 York Rd Suite 100
+222,36C0001308,1699284018,Onyx And Pearl Surgical Suites Llc,465 North Cleveland Ave Suite 150
+223,34C0001034,1013463157,Endoscopy Center Of North Carolina Digestive Health Partners,191 Biltmore Ave
+224,45C0001489,1578593224,Kelsey Seybold Clinic Asc - Spring,2727 W. Holcombe Blvd
+225,06C0001174,1285121020,Surgery Center At Kissing Camels Llc,2955 Professional Pl Suite 100
+226,45C0001021,1346246840,Memorial Hermann West Houston Surgery Center Llc,970 Campbell Rd
+227,31C0001193,1780673327,Lakewood Surgery Center Llc,1215 Route 70 Suite 2000
+228,33C0001176,1881134815,Port Jefferson Surgery Center,1500 Route 1R Building 4
+229,22C0001080,1194275230,West Suburban Eye Surgery Center Llc,321 Billerica Rd
+230,42C0001017,1225064876,Carolina Surgical Center,198 Wouth Hedlong Ave
+231,26C0001165,1376045146,Saint Lukes Surgery Center Shoal Creek,8860 Northeast 82Nd Terrace
+232,03C0001376,1164871075,Central Az Gi And Liver Institute,4001 East Baseline Rd Suite 102
+233,10C0001350,1609841261,Center For Gastrointestinal Endocsopy,"1117 N. Olive Ave., Suite 201"
+234,52C0001121,1447768411,Wisconsin Institute Of Surgical Excellence Llc,1265 West American Dr Suite 200
+235,38C0001056,1609887413,Center For Specialty Surgery Llc,11782 Sw Barnes Rd. #200
+236,38C0001054,1801891668,Cascade Spine Center Llc,6464 Southwest Borland Rd Suite A1
+237,05C0001757,1184937468,Grass Valley Surgery Center,408 Sierra College Dr
+238,17C0001093,1043746555,Overland Park Surgical Suites,6650 West 110Th St Suite 300
+239,45C0001597,1013392042,North Pines Surgery Center Llc,4019 I 45 N Suite 150
+240,34C0001119,1154442630,Gastroenterology Associates Pa,415 North Center St Suite 300
+241,06C0001145,1538507942,Kaiser Permanente,10240 Park Meadows Dr
+242,45C0001678,1902302961,Hill Country Surgery Center Llc Dba Surgery Center Boerne,112 Herff Rd Suite 200
+243,52C0001118,1942722798,Drexel Town Square Surgery Center,7901 South 6Th St
+244,11C0001407,1225378276,White Oak Surgery Center,1665 East Hwy 34 Suite 200
+245,45C0001469,1174713283,Oprex Surgery Beaumont Lp,390 N 11Th St
+246,05C0002196,1013438563,Ventana Surgical Center Llc,18133 Ventura Blvd Suite 400
+247,34C0001166,1114904927,Kinston Medical Specialists Pa,701 Doctors Dr.
+248,06C0001167,1326557653,Sj East Campus Llc Asc Dba Denver Surgery Center,1830 Franklin St Suite 200
+249,44C0001081,1275649063,Midsouth Gastroenterology Group Inc,1417 Monroe Ave.
+250,42C0001078,1033373691,The Southeastern Spine Institute Ambulatory Surgery Center Llc,1106 Chuck Dawley Blvd
+251,05C0001665,1295142511,Bay Area Endoscopy Center Llc,"22455 Maple Ct, Ste. 150"
+252,05C0002107,1316342579,Encino Surgical Center Llc,16260 Ventura Blvd #800
+253,11C0001125,1386165504,Emory Clinic Inc Dba Emory Ambulatory Surgery Center At Spivey Station,1365 Clifton Road Northeast Suite Bt200
+254,45C0001640,1588190904,Texas Health Huguley Surgery Center Llc,12001 South Freeway Suite 101
+255,06C0001133,1194723981,Greenwood Asc Llc Dba Colorado Premier Surgery Center At Greenwood Village,7447 East Berry Ave Suite 100
+256,21C0001620,1922566066,Delmarva Endoscopy Center Llc,11103 Carthage Rd
+257,26C0001021,1154474583,Creekwood Surgery Center Lp,211 Northeast 54Th St Suite 100
+258,49C0001044,1043236664,St Mary'S Ambulatory Surgery Center Llc,1501 Maple Ave Suite 300
+259,03C0001284,1114962321,Banner Estrella Surgery Center,9301 W. Thomas Rd.
+260,11C0001496,1326549676,Chatham Orthopaedic Surgery Asc Llc,4425 Paulsen St Building B 2Nd Floor
+261,10C0001637,1326527680,Intracoastal Surgery Center Llc,2200 West Eau Gallie Blvd Suite 100
+262,44C0001098,1033105960,Advanced Family Surgery Center,944 Oak Ridge Turnpike #200
+263,03C0001259,1043297690,Arizona Gastroenterology Ltd,"7566 N. La Cholla Blvd., Ste. B"
+264,44C0001073,1427017987,Baptist Surgery Center Dba Baptist Ambulatory Surgery Center,312 21St Ave North
+265,26C0001116,1396063673,Gateway Endoscopy Center Lp,12855 N. 40 Dr. Ste. 150
+266,34C0001205,1912476367,Digestive Health Specialists Pa,434 Kirby Rd
+267,21C0001618,1316406523,Johns Hopkins Surgery Center Series,10803 Falls Rd Suite 3100
+268,05C0002179,1972054534,Scripps Clinic La Jolla Asc Dba Scripps Health,9898 Genesee Ave
+269,30C0001021,1770714388,Hillside Ambulatory Surgery Center,14 Maple St
+270,45C0001295,1003887845,Austin Endoscopy Center Ii Lp,4310 James Casey St. Ste. 4B
+271,11C0001383,1376835017,Hughston Surgical Center Llc,6262 Veterans Pkwy Unit. B
+272,17C0001097,1467920389,Indian Creek Ambulatory Surgery Center,10720 Nall Ave
+273,45C0001390,1023420577,Texas Endoscopy Centers Llc Dba Texas Endoscopy,6405 West Parker Rd Suite 370
+274,45C0001589,1346624665,Westgreen Surgical Center,750 Westgreen Blvd Suite 103
+275,05C0001541,1033448782,Endoscopy Surgery Center Of Silicon Valley Llc,2410 Samaritan Dr. Ste. 100
+276,33C0001173,1760931349,Sf Nassau Asc Dba East Hills Surgery Center,2200 Northern Blvd Suite 100D
+277,10C0001308,1477526143,University Eye Surgery Center,"13051 University Dr, Ste. 102"
+278,49C0001067,1104349489,Valley Health Ambulatory Surgery Center,174 Botanical Blvd
+279,04C0001092,1386177376,Executive Surgery Center Of Little Rock Llc,11220 Executive Center Dr Suite 100
+280,22C0001081,1265931653,Healthcare Enterprises Llc Dba The Surgery Center,151 Main St
+281,45C0001196,1275536328,Baylor Surgicare At Oakmont,7200 Oakmont Blvd.
+282,45C0001344,1356621239,Midland Texas Surgical Center Llc,5609 Deauville Blvd
+283,36C0001242,1295911154,Central Ohio Endoscopy Center Llc,6670 Perimeter Dr. Ste. 200
+284,21C0001591,1720514359,Johns Hopkins Surgery Centers Series Dba Knoll North Surgery Center,5450 Knoll North Dr Ste 301
+285,05C0002147,1447608088,Hoag Endoscopy Center Irvine,16405 Sand Canyon Ave Suite 110
+286,19C0001092,1053453134,Advanced Surgical Concepts Llc,9118 Bluebonnet Centre Blvd
+287,45C0001504,1295966257,First Surgery Suites Llc,1402 Medical Dr.
+288,45C0001481,1962671487,Hyde Park Surgery Center,4611 Guadalupe St Suite 100
+289,11C0001488,1447753173,Advanced Center For Joint Surgery Llc,2000 Howard Farm Dr Suite T100
+290,45C0001616,1639561640,Blue Bonnet Surgery Pavilion,"1324 Brown St, Suite 600"
+291,39C0001198,1790876431,Main Line Spine Surgery Center Inc,700 S. Henderson Rd. #335
+292,45C0001307,1366416125,Texas Orthopedics Surgery Center Llc,"4700 Seton Center Pkwy, Ste. 100"
+293,11C0001182,1720085277,Roswell Surgery Center Llc,1285 Hembree Rd Suite 200C
+294,10C0001521,1588839609,Riverwalk Ambulatory Surgery Center,200 3Rd Ave West Suite 170
+295,30C0001014,1386697803,Dartmouth-Hitchcock Ambulatory Surgery Center,100 Hitchcock Way
+296,14C0001148,1336526219,United Shockwave Services Ltd,120 N. Lagrange Rd
+297,39C0001334,1821529892,Allegheny Clinic Dba Ahn Westmoreland Endoscopy Center,118 Nature Park Rd Suite 200
+298,05C0001529,1023191822,Santa Barbara Surgery Center Lp,3045 De La Vina St
+299,34C0001189,1376901900,Carolina Digestive Care,107 B Mica Ave
+300,03C0001335,1790093813,Az West Endoscopy Center Llc,1850 North 95Th Ave Suite 190
+301,45C0001663,1568979805,"St. David'S Austin Area Asc, Llc Dba St. David'S Austin Surgery Center","12200 Renfert Way, Suite G-2"
+302,10C0001621,1427507987,Transformations Surgery Center,2441 Oak Myrtle Lane Suite 103
+303,44C0001169,1235395385,Tenn Sm Llc Dba Providence Surgery Center,5002 Crossing Cir Suite 110
+304,14C0001177,1619469244,Rush Oak Brook Surgery Center,2011 York Rd Suite 3000
+305,05C0001205,1518375641,North Anaheim Surgery Center Llc Dba United Pacific Surgery Center,1154 North Euclid St
+306,05C0001204,1780688499,Center For Endoscopy,3921 Waring Rd. Suite B
+307,13C0001038,1770502767,Endoscopy Center Llc,1151 Hospital Way Bldg. A
+308,21C0001475,1225490196,Olney Endoscopy Center Llc,3407 Olandwood Ct Unit 103
+309,31C0001199,1962435990,Center For Bone And Joint Surgery Dba Northern Monmouth Regional Surgery Center Llc,195 Route 9 South Suite 210
+310,10C0001625,1487198495,Surgery Center Of Naples,11161 Health Park Blvd
+311,50C0001048,1336265263,Tacoma Ambulatory Surgery Center,209 Martin Luther King Jr Way
+312,11C0001472,1396298139,Resurgens Fayette Surgery Center Llc,1336 Hwy 54 West Building 400 Suite A
+313,36C0001317,1679049647,Uh Canton Endoscopy Llc,3722 Dressler Rd Northwest Suite B
+314,06C0001110,1366559122,Harvard Park Surgery Center Llc,1000 East Harvard Ave
+315,10C0001636,1568963189,Baptist Health Endoscopy Center At Miami Beach,709 Alton Road Ste 130
+316,21C0001605,1699219766,Calvert Digestive Disease Associates Endoscopy And Surgery Center Llc,985 Prince Frederick Blvd Ste
+317,45C0001240,1457378333,Beaumont Surgical Affiliates Ltd Dba Baptist Beaumont Surgical Affiliates,3560 College St
+318,19C0001009,1104858513,Doctors Outpatient Surgery Center,1101 South College Rd
+319,26C0001112,1396784252,Frontenac Ambulatory Surgery And Spine Care Center Lp Dba Frontenac Surgery And Spine Care Center,10435 Clayton Rd Suite 110
+320,06C0001166,1831686674,Castle Rock Surgicenter Llc,4700 Castleton Way Suite 101
+321,39C0001344,1740785096,Gastrointestinal Endoscopy Center Llc,1600 Horizon Dr Suite 107
+322,52C0001037,1952347981,Marshfield Clinic - Minocqua,9601 Townline Rd
+323,16C0001032,1649748708,Ankeny Medical Park Surgery Center,3625 North Ankeny Blvd Suite J
+324,26C0001061,1497720882,Des Peres Square Surgery Center,1050 Old Des Peres Rd. Ste. 150
+325,39C0001222,1255829347,Evangelical Community Hospital,90 Medical Park
+326,45C0001018,1730146861,Conroe Surgery Center 2 Llc,"1501 River Pointe Dr, #200"
+327,10C0001423,1346693124,Villages Endoscopy Center Llc,10900 Se 174Th Pl Rd
+328,36C0001314,1053830885,Grove City Surgery Center Llc,1325 Stringtown Rd Ste 100
+329,06C0001070,1477615284,Rocky Mountain Endoscopy Centers Llc,3333 S. Wadsworth Blvd Ste 100
+330,36C0001321,1396213294,Uh North Ridgeville Endoscopy Center Llc,32800 Lorain Rd
+331,06C0001176,1548738495,Ocr Loveland Surgery Center,3470 East 15Th St
+332,34C0001199,1821510579,Novant Health Brunswick Endoscopy Center,2085 Frontis Plaza Blvd
+333,21C0001602,1164934212,Medstar Endoscopy Center At Lutherville,1300 Bellona Ave Suite A
+334,31C0001126,1609907211,Shrewsbury Surgery Center,655 Shrewsbury Ave
+335,06C0001058,1033112628,Golden Ridge Surgery Center Llc,"660 Golden Ridge Rd., Ste. 110"
+336,14C0001173,1437601200,Uropartners Surgery Center Llc,2750 S River Rd
+337,26C0001109,1235146325,Webster Ambulatory Surgery Center Lp,520 S. Elm Ave.
+338,45C0001191,1467458513,Baylor Surgicare At Bedford,"1600 Central Dr., Suite 180"
+339,45C0001632,1396266441,Eye Surgery Center Of East Texas Pllc,244 East 5Th St
+340,10C0001184,1760594279,Filutowski Eye Institute Pa Dba Sunrise Surgical Center,110 Yorktowne Dr
+341,21C0001526,1447523600,Ophthalmology Associates Llc,620 Boulton St 2Nd Floor
+342,05C0001734,1457593980,Sutter Valley Medical Foundation,"460 Plumas Blvd., Suite 202"
+343,24C0001097,1336665306,Eagan Orthopedic Surgery Center Llc,2700 Vikings Cir Suite 300
+344,45C0001615,1588039465,Saratoga Surgical Center Llc,6214 Saratoga Blvd Bldg 6
+345,26C0001164,1093230450,Center For Urologic Surgery Llc,12855 North 40 Dr Suite 100
+346,45C0001633,1245768209,Texas Health Surgery Center Bedford Llc Dba Texas Health Surgery Center Bedford,1605 Airport Freeway Suite 100
+347,31C0001334,1548791593,Bridgewater Ambualtory Surgery Center Llc,"1121 Hwy 22 West, Suite 301"
+348,31C0001281,1942594148,Rockland And Bergen Surgery Center Llc,133 North Kinderkamack Rd
+349,03C0001247,1902807159,Surgery Center Of Scottsdale Llc Dba Mountain View Surgery Center Of Scottsdale,8962 East Desert Cove Ave Suite 120A
+350,10C0001461,1144291923,University Interventional Center,5102 North Davis Hwy
+351,10C0001555,1548414816,Galloway Surgery Center,"7600 Sw 87 Ave, #100"
+352,05C0001975,1801199039,Huntington Ambulatory Surgery Center,625 South Fair Oaks Ave Suite 380
+353,49C0001012,1528027026,Virginia Beach Ambulatory Surgery Center,1700 Will O Wisp Dr
+354,45C0001657,1649793613,Baylor Scott And White Sports Surgery Center At The Star,3800 Gaylord Parkway Suite 410
+355,42C0001080,1003058744,York County Endoscopy Center Llc,164 Glenwood Dr.
+356,24C0001098,1265959795,Bhatti Gi Surgery Center Llc,1447 White Oak Dr
+357,18C0001053,1063999662,Southern Kentucky Surgicenter Llc Dba Greenview Surgery Center,484 Golden Autumn Way Suite 100
+358,10C0001285,1588735708,Filutowski Eye Institute Pa Dba Lake Mary Surgical Center,1070 Greenwood Blvd
+359,13C0001082,1659873388,Mountain View Hospital,1485 Parkway Dr
+360,05C0001764,1275532889,Coast Surgery Center Lp,3445 Pacific Coast Hwy #110
+361,36C0001319,1386110575,Central Ohio Endoscopy Center Llc,1025 Refugee Rd 1St Floor
+362,45C0001039,1811995913,Baylor Surgicare,3920 Worth St.
+363,45C0001509,1083938765,Medical Park Tower Surgery Center,1301 West 38Th St Suite 109
+364,34C0001177,1437459617,Union Health Services Llc,6068 Hwy 74 West
+365,14C0001030,1922141647,River North Same Day Surgery Llc,1 East Erie St Suite 300
+366,52C0001116,1659810703,Milwaukee Surgical Suites Llc,6495 South 27Th St
+367,34C0001115,1417141623,Fayetteville Gastroenterology Endoscopy Center Llc,2041 Valleygate Dr
+368,32C0001107,1831109560,New Mexico Orthopaedic Surgery Center Lp Dba New Mexico Orthopaedic Surgery Center,201 Cedar St Southeast Suite 7650
+369,23C0001138,1568981975,West Michigan Surgical Center Llc,8300 Logistics Dr
+370,45C0001318,1780683490,Baylor Scott And White Surgicare Carrollton,4780 North Josey Lane
+371,06C0001080,1679644017,Flatirons Surgery Center Llc,70 Health Park Dr
+372,45C0001637,1285171538,Eye 35 Asc Llc,"17005 Ih 35 North, Suite 2"
+373,41C0001003,1720085657,Bayside Endoscopy Llc,33 Staniford St.
+374,23C0001071,1326091513,Pain Treatment Center Of Michigan Llc Dba Matrix Surgery Center,4450 Fashion Square Blvd Suite 200
+375,31C0001335,1437676988,Ch Ambulatory Surgery Center Of Lopatcong Llc,212 Red School Lane
+376,12C0001100,1821164476,Kaiser Wailuku Clinic - Asc,80 Mahalani St
+377,44C0001027,1326054172,Urologic Surgery Center Of Knoxville,210 Fort Sanders West Blvd Building 3 Suite 200
+378,05C0002181,1568814010,Surgery Center Of California,835 3Rd Ave Suite B/C
+379,05C0001840,1255429700,Oasis Surgery Center Lp,815 Auto Center Dr.
+380,41C0001017,1073039657,University Orthophedics East Bay Surgery Center,1 Kettle Point Ave Suite 200
+381,05C0002015,1013275965,Soma Surgery Center,"8929 Wilshire Blvd, Suite 102"
+382,45C0001061,1225091630,Gramercy Surgery Center Ltd,2727 Gramercy
+383,10C0001630,1740787068,Cleveland Clinic Coral Springs Ambulatory Surgery Center,5701 University Dr
+384,11C0001146,1205803699,Gi Diagnostic Endoscopy Center,2550 Windyhill Rd # 302
+385,03C0001056,1699777540,Physicians Surgery Center Of Tempe Llc Dba Physicians Surgery Center Of Tempe,2905 West Warner Rd Suite 10
+386,19C0001113,1184806028,Pontchartrain Surgery Center Llc,"4407 Hwy 190 Service Rd, East Ste."
+387,01C0001042,1740288679,Gulf Coast Surgical Partners Llc,"3715 Dauphin St, Ste. 503B"
+388,03C0001356,1396174454,Surgery Center Of Scottsdale Llc Dba Mountain View Surgery Center Of Glendale,18555 North 79Th Ave Building C
+389,24C0001100,1922526961,Blaine Asc Llc,11225 Ulysses St Northeast Suite 300
+390,16C0001007,1619933835,Mississippi Valley Endoscopy Center,3400 Dexter Ct. Ste. 200
+391,06C0001169,1770075467,Dry Creek Surgery Center Llc,125 Inverness Dr E Ste 150
+392,19C0001010,1386603173,Eye Care Surgery Center Inc,10423 Old Hammond Hwy
+393,24C0001052,1447287370,Ilbnc Special Procedures,15700 37Th Ave N Ste. 210
+394,38C0001114,1407330863,Gso Equipment Corp Dba The Oregon Clinic Endoscopy Center - Newberg,879 Providence Dr
+395,22C0001077,1306391206,Cape Cod Surgery Center,160 Falmouth Rd
+396,14C0001171,1639618036,Presence Lakeshore Gastroenterology Dba Des Plaines Endoscopy Center,150 North River Rd Suite 215
+397,03C0001289,1487716650,Carondelet St Marys Northwest Llc Dba Carondelet Foothills Surgery Center,2220 West Orange Grove Rd
+398,34C0001032,1437269800,Iredell Surgical Associates Llp,1720 Davie Ave.
+399,44C0001195,1477067866,Phoenix Ambulatory Surgery Center,101 Physicians Way Suite 114
+400,05C0001174,1497705883,Mission Ambulatory Surgicenter,26730 Crown Valley Parkway Suite 100
+401,18C0001050,1396260931,Colorectal Surgical And Gastroenterology Associates,2620 Wilhite Dr
+402,05C0002064,1881015584,Ace Endoscopy And Surgery Center,2006 North Riverside Ave Ste C
+403,49C0001016,1508972118,Stony Point Surgery Center Llc,"8700 Stony Point Parkway, # 100"
+404,34C0001201,1013425933,Rex Surgery Center Of Wakefield Llc,11200 Governor Manly Way Suite 110
+405,45C0001638,1861931263,Methodist Craig Ranch Surgery Center,6045 Alma Rd Suite 100
+406,15C0001158,1871799510,Terre Haute Surgical Center Llc,227 East Mccallister Dr
+407,10C0001319,1366982845,Jacksonville Endoscopy Centers Llc Dba Jacksonville Center For Endoscopy,1610 Barrs St Suite B
+408,45C0001644,1952814386,Advanced Surgical Care Of Boerne Llc,138 Old San Antonio Rd
+409,14C0001178,1538647474,Palos Health Surgery Center,15300 West Ave Suite 260
+410,24C0001034,1669496345,Mngi Endoscopy Asc Inc,"2550 University Ave West, Suite 423 South"
+411,21C0001590,1356890172,Dialysis Access Services Llc,1666 Sulphur Springs Rd
+412,24C0001044,1669496345,Mngi Endoscopy Asc Inc,1185 Town Center Dr Suite 200
+413,34C0001142,1184976797,Digestive Health Specialists Pa,280 Broad St Suite G
+414,36C0001306,1225558497,Trihealth Surgery Center -- Anderson,7810 5 Mile Rd Ste B
+415,34C0001185,1184976797,Digestive Health Specialists Pa,"280 Broad St, Ste. G"
+416,50C0001321,1023507183,South Perry Endoscopy Pllc,907 S Perry St Ste 260
+417,10C0001512,1285815522,Tlc Asc Llc Dba Tlc Outpatient Surgery And Laser Center,201 West Guava St
+418,06C0001049,1477615284,Rocky Mountain Endoscopy Centers Llc,10001 N. Washington St.
+419,21C0001191,1124443809,Poole Endoscopy Center Llc,"826 Washingotn Rd., #218"
+420,36C0001312,1598275703,Liberty Endoscopy Center,7630 Liberty One Dr
+421,45C0001264,1336142413,Texan Surgery Center,7000 North Mopac Expressway Suite 120
+422,36C0001063,1467474585,North Shore Endoscopy Center Ltd,"850 Columbia Rd, Ste. 200"
+423,52C0001050,1952347981,Marshfield Clinic - Wausau,2727 Plaza Dr
+424,15C0001198,1326424144,Iu Health East Washington Ambulatory Surgery Center Llc,9660 E. Washington St Suite 200
+425,45C0001421,1366776106,Memorial Hermann Surgery Center Richmond Llc,1517 Thompson Rd Suite 100
+426,11C0001490,1770019200,Georgia Cataract And Eye Specialty Center Llc Dba Georgia Cataract And Eye Specialty Center,158 Clinic Ave Suite B
+427,45C0001664,1497201867,Abilene Center For Orthopedic And Multispecialty Surgery Llc,6449 Central Park Blvd
+428,27C0001027,1346771383,The Orthopedic Surgical Center Of Montana,536 South Cottonwood Rd Suite 102
+429,38C0001067,1245482280,Northwest Ambulatory Surgery Center Llc,1515 Northwest 18Th Ave Suite 200
+430,05C0001702,1013068642,Renaissance Surgery Center Llc,73180 El Paseo
+431,06C0001028,1245344407,Kaiser Permanente Surgery Ctr,2045 Franklin St
+432,26C0001103,1275564346,Cedar Oaks Surgery Center Llc,706 Burkarth Rd
+433,05C0001453,1164421004,Chico Surgery Center Lp,615 West East Ave
+434,45C0001652,1255875126,Vip Surg Asc Llc,1246 N Fm 3083 Rd W Ste A
+435,44C0001181,1225387640,Pcet Surgery Center,1128 East Weisgarber Rd Suite 110
+436,31C0001331,1821528753,Jefferson Surgery Center Cherry Hill,2211 Chapel Ave West Suite 200
+437,05C0001867,1215111869,Specialty Surgery Of Fountain Valley,11190 Warner Ave.
+438,25C0001081,1518246081,The Surgery Center Dba Advanced Surgical Care,2466 Flowood Dr Suite A
+439,05C0002170,1356878052,Pavilion Surgery Center,1140 West La Veta Ave Suite 300
+440,23C0001139,1528595964,Health Pointe,15100 Whittaker Way
+441,52C0001122,1851887715,Southern Lakes Endoscopy Center,2801 West Kinnickinnic River Parkway Suite 1080
+442,39C0001017,1912933680,Southwestern Ambulatory Surgery Center Llc,"500 Lewis Run Rd, Ste.202"
+443,36C0001045,1114926714,Endoscopy Center Of Dayton,4200 Indian Ripple Rd
+444,44C0001001,1427003052,Eye Surgery Center Of Nashville Llc,310 25Th Ave North Suite 105
+445,11C0001240,1346403854,Emory Healthcare,"1365 Clifton Rd, Ne Suite Bt200"
+446,45C0001374,1407807050,El Paso Day Surgery Lp Dba El Paso Day Surgery Llc,1300 Murchison Suite 200
+447,10C0001354,1689624793,Surgery Center Of Southwest Florida Inc,12631 Whitehall Dr
+448,45C0001653,1801309612,Texas Health Suregery Center Rockwall,3144 Horizon Rd Suite 120
+449,39C0001341,1154787117,The Pennsylvania Surgery And Laser Center,601 Franklin Mills Cir
+450,28C0001062,1588119283,Doctors Outpatient Surgery Center,5055 A St Suite 100
+451,10C0001629,1679086078,Cypress Creek Outpatient Surgical Center Llc,2122 West Cypress Creek Rd Suite 120
+452,31C0001218,1194935577,Millennium Surgical Center Llc,"2090 Springdale Rd., Suite A"
+453,39C0001100,1699743393,York Endoscopy Center Lp,2690 South Field Dr
+454,10C0001572,1205184603,St Lukes Surgical At The Villages Inc,1050 Old Camp Rd Building 230
+455,36C0001097,1447212535,Reynolds Road Surgical Center Ltd,"2865 North Reynolds Rd, Suite 190"
+456,03C0001357,1558794081,Surgery Center Of Scottsdale Llc Dba Mountain View Surgery Center Of Gilbert,2450 East Guadalupe Rd Suite 101
+457,45C0001656,1760912554,Baylor Surgicare At Baylor Plano Llc Dba Baylor Scott And White Surgicare At Plano Alliance,4825 Alliance Blvd Sute 300
+458,44C0001104,1538139811,Saint Thomas Outpatient Neurosurgical Center,"4230 Harding Rd., Suite 901"
+459,50C0001223,1073757019,Digestive Disease And Endoscopy Center Pllc,3261 Mt Vintage Way Nw
+460,45C0001238,1679585772,Medical Center Endoscopy Llc,"6560 Fannin, Ste. 600"
+461,29C0001116,1225414246,Lv Surgery Ctr Llc,7315 S. Pecos Rd Ste 103
+462,05C0002176,1437537107,Brand Surgery Center Llc,1146 North Brand Blvd
+463,45C0001630,1912447418,Lubbock Surgery Center,3416 22Nd St
+464,28C0001060,1942697735,South Omaha Surgical Center Llc,3201 S 24Th St
+465,26C0001152,1760860977,Mid Missouri Surgery Center Llc,"1410 Forum Katy Parkway, Ste. 102"
+466,45C0001639,1164964953,Hendrick Surgery Center,2401 Crockett Dr
+467,25C0001089,1417405812,Bienville Surgery Center Llc,6300 East Lake Blvd Suite 102
+468,32C0001124,1194970418,Pacific Cataract And Laser Institute Inc Pc,"8220 San Pedro Ne, Suite 220"
+469,07C0001065,1255797726,Bloomfield Asc Llc,580 Cottage Grove Rd Suite 211
+470,25C0001090,1528416641,Southern Eye Surgery And Laser Center,1923 W 10Th St
+471,23C0001132,1457709289,Genesys Surgery Center,35105 Warren Rd
+472,20C0001021,1215309653,Bangor Eye Surgery Pa,900 A Hammond St
+473,34C0001181,1972874907,Capital City Surgery Center Llc,"23 Sunnybrook Rd, Ste. 100"
+474,45C0001607,1124492541,Memorial Hermann Surgery Center Pinecroft,9305 Pinecroft Dr Suite 200
+475,45C0001601,1083000715,Cleburne Endoscopy Center Llc,1701 Walter Holiday Dr Suite 100
+476,36C0001303,1396192241,Anderson Endoscopy Center,7661 Beechmont Ave Suite 100
+477,36C0001304,1730614330,Gypsy Lane Endoscopy Suites Inc.,630 Gypsy Ln
+478,13C0001079,1831636752,River View Surgery Center,1502 Locust St North Suite 100
+479,33C0001144,1366864514,Great South Bay Endoscopy Center Llc,260 Patchogue Yaphank Rd
+480,11C0001459,1992164032,Hall County Endoscopy Center,1955 Textile Way
+481,34C0001190,1578759106,Robeson Digestive Diseases,1011 Woodridge Dr
+482,11C0001418,1528404803,Urological Clinic Of Valdosta Ambulatory Surgical Center Llc,3294 N Oak St Ext
+483,05C0001675,1336215847,Brand Surgical Institute,1141 N. Brand Blvd #200
+484,50C0001318,1588029870,Pacific Gastroenterology Pllc,8506 E Mill Plain Blvd Suite C
+485,45C0001621,1548400229,Ambulatory Surgery Center At Lbj,5550 Kelley St
+486,05C0001693,1336231059,Centinela Valley Endoscopy Center Inc,"575 E. Hardy St., Ste. 101"
+487,10C0001609,1700331964,The Advanced Center For Surgery Llc,1355 37Th St Suite 304
+488,39C0001327,1801334875,Geisinger Endoscopy Montoursville,10 Choate Cir
+489,07C0001063,1336695188,Hhc Hartford Surgery Center Llc,"31 Seymour St, Suite 300"
+490,12C0001017,1447415278,Castle Ambulatory Surgery Center Llc,642 Ulukahiki St Ste 200
+491,45C0001536,1073880530,Kirby Glen Surgery Center,2459 S. Braeswood Blvd.
+492,33C0001167,1407305063,Gastroenterology Of Westchester Llc,1086 N Broadway Suite 50
+493,23C0001122,1023358116,Oakland Physican Surgery Center,"1560 E. Maple Rd., Suite 100"
+494,33C0001129,1366799033,Upstate Gastroenterology Llc,"1000 E. Genesee St, Ste 206"
+495,39C0001324,1376906354,Premier At Exton Surgery Center Llc,491 John Young Way Suite 100
+496,05C0002144,1669869111,Lb Surgical Center Llc,2880 Atlantic Ave 180
+497,05C0002141,1568851327,Sutter Bay Medical Foundation Dba Surgery Center Los Altos,715 Altos Oaks Dr
+498,05C0002090,1225439508,Northridge Outpatient Surgery Center Inc,19871 Nordhoff St
+499,33C0001166,1689029316,Liberty Endoscopy Center,156 William St 4Th Floor
+500,28C0001061,1548710775,Lincoln Digestive Health Center Llc,2300 S 16Th St Suite 512
+501,33C0001168,1023551413,Mid Bronx Endoscopy Center Llc,51 West Burnside Ave
+502,33C0001169,1306242466,Amsc Llc,951 Brook Ave
+503,34C0001140,1548343833,Endoscopy Center Of Lake Norman Llc,16525 Holly Crest Lane Suite 200
+504,10C0001613,1962953018,Outpatient Surgery Center At Tgh Brandon Healthple,10740 Palm River Rd Suite 210
+505,10C0001612,1992250922,Miami Surgical Suites Llc,9035 Sunset Dr Suite 200
+506,05C0002138,1629424866,New Horizon Surgical Center Llc,4500 Trade Center Drive
+507,05C0002042,1396050829,Redwood Surgery Center,20998 Redwood Rd
+508,05C0002157,1750789814,Trinity Surgery Center Llc,1610 Blossom Hill Rd Suite 10
+509,05C0002164,1013463991,Camarillo Endoscopy Center Llc,4005 Mission Oaks Blvd Unit A
+510,38C0001109,1760861835,Central Oregon Surgery Center Llc,1835 Nw Pence Ln Ste 100
+511,34C0001150,1730382789,Carolina Endoscopy Center Huntersville,16455 Statesville Rd Suite 114
+512,10C0001595,1841605318,Florida Orthopaedic Institute Surgery Center Llc,6119 Gunn Hwy
+513,05C0002136,1659753358,St. Michael Surgery Center,701 East 28Th St Suite 300
+514,12C0001008,1417377649,Pacific Endoscopy Center Llc,134 Puuhonu Way
+515,10C0001598,1912317538,Villages Regional Hospital Surgery Center Llc,1501 N Us Hwy 441 Suite 1800A
+516,44C0001192,1104373315,Surgicare Of Southern Hills Inc,360 Wallace Road
+517,39C0001336,1447600416,Pottstown Ambulatory Center,20 North Sunnybrook Rd Suite 2
+518,34C0001154,1215061049,Novant Health Ballantyne Outpatient Surgery,200 Hawthorne Lane
+519,06C0001157,1962958223,Northglenn Endoscopy Center Llc,11900 Grant Street #320
+520,11C0001370,1407169212,Georgia Spine Surgery Center Llc Dba Gns Surgery Center,1061 Dowdy Rd Suite 103
+521,10C0001555,1548414816,Galloway Surgery Center,"7600 Sw 87 Ave, #100"
+522,10C0001617,1801343496,Tradition Surgery Center,"10080 Southwest Innovation Way, Suite 101"
+523,15C0001192,1275881179,Meridian South Surgery Center,"8830 South Meridian St, Ste. 250"
+524,14C0001169,1235683798,Associated Surgical Center Llc,129 West Rand Rd
+525,49C0001066,1912444340,West Creek Surgery Center,"8700 Stony Point Parkway, # 100"
+526,29C0001069,1174716708,Henderson Surgery Center,1110 Wigwam Parkway Suite 105
+527,34C0001160,1346308517,Northeast Digestive Health Center,1070 Vinehaven Dr Ne
+528,45C0001588,1790174274,Parkside Surgery Center Llc,"690 S. Loop 336 W, Ste. 130"
+529,24C0001091,1164870895,Eagan Surgery Center,2620 Eagan Woods Dr
+530,44C0001188,1558785683,Southern Sports Surgical Llc Dba Indian Lake Surgery Center,127 Saundersville Rd Suite A
+531,21C0001537,1366869752,Chesapeake Surgical Services Llc,300 E Pulaski Hwy 108
+532,34C0001197,1386190957,Holly Springs Surgery Center Llc,600 Village Walk Dr
+533,05C0002129,1063887875,Magnolia Surgery Center Llc,463 N Magnolia Ave
+534,17C0001092,1629510326,College Park Endoscopy Center Llc,"10787 Nall Avenue, Suite 100"
+535,05C0001697,1861408643,Specialty Surgical Center Of Arcadia Lp,51 North 5Th Ave #101
+536,06C0001141,1245749258,Focus Hand Surgicenter Llc,"601 E. Hampden Ave, Suite 500"
+537,52C0001115,1881129351,Bellin Health Marinette Surgery Center,2820 Roosevelt Rd
+538,23C0001135,1376574814,Rochester Endoscopy & Surgery Center Llc,1349 South Rochester Rd Suite 150
+539,45C0001595,1184991341,Baytown Endoscopy Center Llc Dba Baytown Endoscopy Center,910 North Hwy 146
+540,05C0001664,1629009071,Endoscopy Center Of Santa Monica,12400 Wilshire Blvd Ste. 100
+541,33C0001131,1558612762,Queens Blvd Endoscopy Llc,95-25 Queens Blvd
+542,07C0001064,1316317134,Summer St Asc Llc,1290 Summer St
+543,23C0001134,1710336763,Mt Pleasant Surgery Ctr,4851 East Pickard St
+544,11C0001381,1821397654,Renue Surgery Center Of Waycross,1905 Tebeau St
+545,34C0001116,1356421853,Pinehurst Medical Clinic Inc,15 Regional Dr
+546,42C0001088,1629432869,Prisma Health Surgery Center Spartanburg,701 Grove Rd
+547,34C0001121,1679687586,Gastroenterology Associates Of The Piedmont Pa,875 Bethesda Rd
+548,03C0001372,1689035537,Yuma Endoscopy Center,2261 South Ave B
+549,10C0001597,1205221470,Newsom Surgery Center Of Sebring Llc,4211 Us Hwy 27 North
+550,10C0001614,1629420922,Heart Of Florida Surgery Center,410 Lionel Way Suite 100
+551,34C0001115,1417141623,Fayetteville Gastroenterology Endoscopy Center Llc,2041 Valleygate Dr
+552,11C0001457,1356732804,Athens Digestive Endoscopy Center,1360 Caduceus Way Building 300 Suite 101
+553,10C0001607,1568918746,Orthopedic Surgery Center Of Palm Beach County,10275 Hagen Ranch Rd
+554,10C0001610,1932657335,East Coast Surgery Ctr,1871 Lpg Blvd
+555,30C0001031,1386697803,Dartmouthhitchcock Clinic,One Medical Center Dr
+556,45C0001624,1952852345,Hubner Ambulatory Surgery Center,9618 Huebner Rd Suite 111
+557,10C0001616,1184164816,Delray Beach Surgical Suites,555 South East 5Th Avenue
+558,11C0001471,1053846592,Eastside Endoscopy Center Llc,1805 Honey Creek Cmns Se
+559,03C0001381,1962943118,Spectra Eye Institute Llc,15401 North 29Th Ave Suite 201
+560,34C0001167,1588720072,Southeastern Gastroenterology Endoscopy Center Pa,101 W 27Th St
+561,05C0002135,1326425596,Minimally Invasive Surgical Institute Llc,26921 Crown Valley Parkway 110
+562,34C0001194,1013377290,Rockford Digestive Health Endoscopy Center,951 Rockford St Suite B
+563,11C0001455,1588030704,Clarke County Endoscopy Center Dba Athens Clarke County Endoscopy Center,"340 North Milledge Ave, Suite A"
+564,45C0001603,1982069068,Raider Surgical Center Llc,1400 E Ridge Rd Ste 3
+565,15C0002002,1255796017,Goshen Health Surgery Center Llc,1605 Winsted Dr
+566,24C0001093,1033669395,Centracare,1013 Hart Blvd Suite 2
+567,11C0001362,1053632372,Orthoatlanta Surgery Center Of Austell Llc,3672 Marathon Cir Ste 120
+568,05C0002160,1215381843,Uc Regents,7320 Woodland Ave Ste. 320
+569,13C0001077,1821459496,Gem State Endoscopy,3709 14Th St
+570,28C0001059,1508213810,Alegent Creighton Health Dba Chi Health Ambulatory Surgery Center At Midlands,11111 South 84Th St
+571,10C0001600,1912378357,Davenport Ambulatory Surgery Center Llc,107 Park Pl Blvd
+572,45C0001543,1104341254,Texas Health Surgery Center Alliance,10840 Texas Health Trail Suite 100
+573,14C0001168,1003260498,Northwest Endo Center Llc,1415 South Arlington Heights Rd
+574,45C0001628,1720434731,New Braunfels Spine And Pain Surgery,"717 Generations Dr, Suite A"
+575,45C0001646,1154844553,Lone Star Endoscopy Center Southlake,515 South Nolen Dr
+576,06C0001162,1770958522,Uchealth Longs Peak Surgery Center,1750 East Ken Pratt Blvd
+577,05C0001991,1700162054,Solar Surgical Center Llc,1901 Solar Dr Suite 100
+578,05C0002150,1912362955,St Charles Surgical Center,550 Saint Charles Dr Suite 101
+579,26C0001158,1922486679,St Louis Specialty Surgical Center,1028 South Kirkwood Rd
+580,29C0001073,1023218500,San Martin Surgery Center Dba Durango Outpatient Surgery Center,8530 West Sunset Rd Suite 100
